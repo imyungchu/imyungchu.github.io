@@ -8,7 +8,7 @@ to start my AI learning.🏫
 
 Hello! I am Yung-chu,Chiang. 💻 A programming beginner interest in AI. 🤖️
 Currently, I'm a bachelor student at National Chaio Tung University department of Industrial Engineering and Management. Also being the director of the  [Industrial Engineering and Management Student Association](https://linktr.ee/nycu.iem.sa). 
-![image](https://raw.githubusercontent.com/imyungchu/imyungchu.github.io/main/913.jpg)
+![image](https://img.onl/uwvTFw)
 ##### 👩 An outgoing girl.
 ##### 📚 Enjoying reading. 
 ##### 🎨 Excel at drawing.
