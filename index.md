@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/imyungchu/imyungchu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am now learning Out of the comfort zone , 
+so I build the website because of the course [Introduction to Artificial Intelligence](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=110&Sem=1&CrsNo=1071&lang=zh-tw)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
+Hello! I am Yung-chu,Chiang. A programming beginner interest in AI.
+Currently, I'm a bachelor student at National Chaio Tung University department of Industrial Engineering and Management. Also being the director of the  [Industrial Engineering and Management Student Association](https://linktr.ee/nycu.iem.sa). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Follow me on :
+[Facebook](https://www.facebook.com/yongzhuj/) or
+[Instagram](https://www.instagram.com/imyungchu/) 
 
 ```markdown
 Syntax highlighted code block
