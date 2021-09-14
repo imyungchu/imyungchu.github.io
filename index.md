@@ -4,7 +4,7 @@
 so I join the course [Introduction to Artificial Intelligence](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=110&Sem=1&CrsNo=1071&lang=zh-tw)
 to start my AI learning.🏫
 
-### About me ❤️
+## About me ❤️
 
 Hello! I am Yung-chu,Chiang. 💻 A programming beginner interest in AI. 🤖️
 Currently, I'm a bachelor student at National Chaio Tung University department of Industrial Engineering and Management. Also being the director of the  [Industrial Engineering and Management Student Association](https://linktr.ee/nycu.iem.sa). 
@@ -15,10 +15,11 @@ Currently, I'm a bachelor student at National Chaio Tung University department o
 ##### 👸 Director of [IEMSA](https://www.facebook.com/IEMhome/)
 ##### 🧘🏻‍♀️ Vice Director in a [yoga club](https://www.facebook.com/交大瑜珈社-558704051322587/)
 
-🔎Follow me on : 
-[Facebook](https://www.facebook.com/yongzhuj/) or
-[Instagram](https://www.instagram.com/imyungchu/) 
+## 🔎Follow me on : 
+ [Facebook](https://www.facebook.com/yongzhuj/) or
+ [Instagram](https://www.instagram.com/imyungchu/) 
+ and subscribe my [Youtube channel](https://www.youtube.com/channel/UCFhsHnSLhKTZj_F4a2RGwVw)
 
-My school timetable 
+## My school timetable 
 ![image](https://img.onl/PKbUs1)
 ### お知らせ下さい (((o(*ﾟ▽ﾟ*)o)))♡
