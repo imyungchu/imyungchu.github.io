@@ -19,4 +19,6 @@ Currently, I'm a bachelor student at National Chaio Tung University department o
 [Facebook](https://www.facebook.com/yongzhuj/) or
 [Instagram](https://www.instagram.com/imyungchu/) 
 
+My school timetable 
+![image](https://img.onl/PKbUs1)
 ### お知らせ下さい (((o(*ﾟ▽ﾟ*)o)))♡
