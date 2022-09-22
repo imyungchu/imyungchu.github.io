@@ -41,7 +41,7 @@ Currently, I'm a bachelor student at National Chaio Tung University department o
 
 
 ## My school timetable 
-![](https://i.imgur.com/Q5O6lGU.jpg)
+![](https://i.imgur.com/Fe8lBbg.png)
 
 ### お知らせ下さい (((o(*ﾟ▽ﾟ*)o)))♡
 
