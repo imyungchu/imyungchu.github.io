@@ -12,7 +12,7 @@
 
 - 📫 How to reach me : **yungchu.mg08@nycu.edu.tw**
 
-- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1gtJ0tvcVW2PU6GGwVI82Ylmswy1W7g0j/view?usp=sharing)
+- 📄 Know about my experiences :  [English Resume](https://drive.google.com/file/d/1wa9QD6iHnoGVBdq-oFPUpOmUbniOmA-N/view?usp=sharing) & [Chinese Resume](https://drive.google.com/file/d/1gtJ0tvcVW2PU6GGwVI82Ylmswy1W7g0j/view?usp=sharing)
 
 - ⚡ Fun fact **I've been scammed recently (Already called the police)**
 <h3 align="left">Connect with me:</h3>
