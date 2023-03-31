@@ -1,20 +1,21 @@
 # imyungchu.github.io
 <h1 align="center">Hi 👋, I'm Yung-Chu, Chiang</h1>
-<h3 align="center">An industrial engineering student from Taiwan</h3>
+<h3 align="center">I'm a Taiwanese student pursuing a Master's in Information System Applications and a Bachelor's in Industrial Engineering.</h3>
 
-- 🌱 I’m currently struggling on **how to get admission by recommendation and screening**
+- 🌱 I’m currently about to graduate from [NYCU IEM](https://iem.nycu.edu.tw) and am looking forward to being a Master's degree student at [NTHU ISA](https://isa.site.nthu.edu.tw).
 
-- 👨‍💻 Some of my projects are available at [my github page](https://github.com/imyungchu?tab=repositories)
+- 📄 Check out about my experiences : [Chinese Resume](https://docs.google.com/document/d/1Qs0MsbnTR7OyfBkQ3vZb-KYmjUYYNy_yUDBXeB8aueY/edit?usp=sharing) / [English Resume](https://docs.google.com/document/d/1HszuEYAxZIKRLKM6Tnrq_QKE9uyeub6nok6wHBt7jWA/edit?usp=sharing)
+
+- 👨‍💻 Some of my projects are available on [my github page](https://github.com/imyungchu?tab=repositories)
 
 - 📝 I seldom write articles on [my website](https://imyungchu.github.io/)
 
-- 💬 Ask me about **how to be happy**
+- 💬 Ask me about **how to engage in interdisciplinary learning**
 
 - 📫 How to reach me : **yungchu.mg08@nycu.edu.tw**
 
-- 📄 Know about my experiences :  [English Resume](https://drive.google.com/file/d/1wa9QD6iHnoGVBdq-oFPUpOmUbniOmA-N/view?usp=sharing) & [Chinese Resume](https://drive.google.com/file/d/1gtJ0tvcVW2PU6GGwVI82Ylmswy1W7g0j/view?usp=sharing)
+- ⚡ Fun fact **I have been the Director of NYCU IEM Student Association and the Leader of NCTU Yoga Club**
 
-- ⚡ Fun fact **I've been scammed recently (Already called the police)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yungchu-chiang-30b747195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yungchu chiang" height="30" width="40" /></a>
@@ -36,12 +37,12 @@ My small project of data science is about predicting bike sharing demand. [some 
 Hello! I am Yung-chu,Chiang. 💻 An industrial engineering student in NYCU also a programming beginner interest in AI. 🤖️ 
 Currently, I'm a bachelor student at National Chaio Tung University department of Industrial Engineering and Management. 
 
-##### 👸 (2021.6~2022.7) Director of [NYCU IEMSA](https://www.facebook.com/IEMhome/)
-##### 🧘🏻‍♀️ (2021.6~now) Director in [NCUT yoga club](https://www.facebook.com/交大瑜珈社-558704051322587/)
+##### 👸 (2021.6~2022.6) Director of [NYCU IEMSA](https://www.facebook.com/IEMhome/)
+##### 🧘🏻‍♀️ (2021.1~2022.1) Director in [NCTU yoga club](https://www.facebook.com/交大瑜珈社-558704051322587/)
 
 
 ## My school timetable 
-![](https://i.imgur.com/Fe8lBbg.png)
+![](https://i.imgur.com/ztpSstG.png)
 
 ### お知らせ下さい (((o(*ﾟ▽ﾟ*)o)))♡
 
@@ -49,3 +50,4 @@ Currently, I'm a bachelor student at National Chaio Tung University department o
 
 ## 🔎Follow me on : 
  [Facebook](https://www.facebook.com/yongzhuj/) or [Instagram](https://www.instagram.com/imyungchu/) and subscribe my [Youtube channel](https://www.youtube.com/channel/UCFhsHnSLhKTZj_F4a2RGwVw)
+
