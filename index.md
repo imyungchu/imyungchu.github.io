@@ -1,6 +1,7 @@
 ## 文章總覽
 之後會整理並更新
 
+# 關於我
 ## 技能
 
 - **前端開發：** React, TailwindCSS
@@ -35,6 +36,6 @@
 
 ## 聯絡方式
 
-- **電子郵件：** [yungchu@gapp.nthu.edu.tw]
-- **LinkedIn：** [www.linkedin.com/in/imyungchu]
-- **GitHub：** [https://github.com/imyungchu]
+- **電子郵件：** yungchu@gapp.nthu.edu.tw
+- **LinkedIn：** www.linkedin.com/in/imyungchu
+- **GitHub：** https://github.com/imyungchu
