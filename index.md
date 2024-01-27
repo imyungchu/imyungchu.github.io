@@ -4,6 +4,20 @@
 
 # 關於我
 
+嗨 👋，我是江詠筑，未來前端開發者，致力於創建使用者友善的網頁界面。
+
+- 🌱 我目前是 [NTHU ISA](https://isa.site.nthu.edu.tw) 研究生，在 [@NLPLab](http://www.nlplab.cc) 學習中
+
+- 📄 查看我的經歷：[中文履歷](https://docs.google.com/document/d/1_pO1MJMC2__iarKsbvPb7G_iJeS3CJojkonQelAuQrI/edit?usp=sharing) / [英文履歷](https://docs.google.com/document/d/1sF_a3PMl_xfzvFeefmizUUD6As6yYLmRStVQRnXXhlo/edit?usp=sharing)
+
+- 👨‍💻 一些我的專案可在 [我的 GitHub 頁面](https://github.com/imyungchu?tab=repositories) 上找到
+
+- 💬 歡迎問我關於 **如何參與跨領域學習、跨領域推甄**
+
+- 📫 聯絡方式：**yungchu@gapp.nthu.edu.tw**
+
+- ⚡ 趣聞：**我愛瑜伽🧘‍♀️**和狗狗
+
 ## 🛠️ 技能
 
 - **前端開發：** HTML, CSS, JavaScript, React, TailwindCSS, [110-2 資料庫管理系統]()
@@ -63,7 +77,11 @@
   - [海報連結](https://drive.google.com/file/d/1RqxI3m86yXWR4mn-CH-KQQQEgrGPjDtB/view?usp=sharing)
 
 ## ☎️ 聯絡方式
-
-- **電子郵件：** yungchu@gapp.nthu.edu.tw
-- **LinkedIn：** [My profile](www.linkedin.com/in/imyungchu)
-- **GitHub：** [My profile](https://github.com/imyungchu)
+<p align="left">
+  
+<a href="https://tw.linkedin.com/in/yung-chu-chiang-30b747195?trk=profile-badge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yungchu chiang" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/yungchuchiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yung-chu ,chiang" height="30" width="40" /></a>
+<a href="https://www.facebook.com/yongzhuj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="江詠筑" height="30" width="40" /></a>
+<a href="https://instagram.com/imyungchu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imyungchu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCFhsHnSLhKTZj_F4a2RGwVw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chuchulife" height="30" width="40" /></a>
+</p>
