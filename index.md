@@ -28,23 +28,25 @@
 - **英文能力：** [多益金色證書](https://drive.google.com/file/d/17xH5SxvC6x-Y01f9h9l1pu4RPFZIlpUU/preview)
 - **資料科學：** 111-2 資料探勘(A+)、111-1 應用電腦視覺(A+)、111-1 人工智慧概論(A+)、110-2 數據科學概論(A)、110-2 統計學二(A+)、111-1 機率(A)、110-2 模擬學、110-2 基因演算法
 
-## 💻 實驗室實習經歷
+## 💻 實驗室實習經歷 (A year)
 
-### 國科會萌芽案計畫前端與專案管理（2023.1 - 2023.6）
+### 國科會萌芽案計畫前端開發（2023.1 - 2023.8）
 
-#### Key important three concepts takeaway in this project:
+### 實驗室專案管理（2023.7 - 2023.12）
 
-1. Who are your user?
+#### Three key important concepts to take away from this project
 
-- The user of the Linggle Write product is high school student and teacher and whoever want to enhance their English writing ability.
+1. Who are your users?
 
-2. What benefit they get by this project?
+- The user of the Linggle Write product includes high school students, teachers, and anyone who wants to enhance their English writing ability.
 
-- The projct will help all of the user or person who want to improve their English Writing ability.
+2. What benefit do they get from this project?
 
-3. What pains will the app help?
+- The project will help all users or individuals who want to improve their English writing ability.
 
-- The effort for English teacher to correct the essay or article of students is beyond our imagination, and we have get some interact, discuss and improve our design with the high school English teachers and students opions.
+3. What challenges will the app address?
+
+- The effort required for English teachers to correct essays or articles of students is beyond our imagination. We have engaged in interactions, discussions and design improvements based on the opinions of high school English teachers and students.
 
 #### Others
 
@@ -87,6 +89,7 @@
 - **佳作 2022 全國工業工程大學生專題競賽 大數據分析與資訊系統組**
   - [論文全文](https://drive.google.com/file/d/1edGAIWy3XEC6kk66AQwiJQwly1DUlrq9/view?usp=sharing)
   - [程式連結](https://github.com/imyungchu/Sharing-bicycle-DL-GA)
+  - [影片連結]()
 - **佳作 2022 國立陽明交通大學第二屆聯合國永續發展目標 SDGs 論文海報競賽**
   - [海報連結](https://drive.google.com/file/d/1RqxI3m86yXWR4mn-CH-KQQQEgrGPjDtB/view?usp=sharing)
 
