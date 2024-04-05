@@ -1,4 +1,4 @@
-[submodule "public"]
-	path = public
+[submodule "thesimpleblog/public"]
+	path = thesimpleblog/public
 	url = https://github.com/imyungchu/blog.git
 	branch = main
