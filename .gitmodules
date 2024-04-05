@@ -1,3 +1,4 @@
+
 [submodule "thesimpleblog/public"]
 	path = thesimpleblog/public
 	url = https://github.com/imyungchu/blog.git
