@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PORTFOLIO on chuchulife</title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content in PORTFOLIO on chuchulife</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Edna West</copyright>
+    <lastBuildDate>Sat, 02 May 2020 19:47:09 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Old version personal website</title>
+      <link>http://localhost:1313/portfolio/sample-project/</link>
+      <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
+      <guid>http://localhost:1313/portfolio/sample-project/</guid>
+      <description>文章總覽 精心籌備中，預計分享程式、美術、英文等學習經驗的心路歷程與反思。也期望未來可以撰寫技術文章。&#xA;關於我 嗨 👋，我是江詠筑，未來前端開發者，致力於創建使用者友善的網頁界面。&#xA;🌱 我目前是 NTHU ISA 研究生，在 @NLPLab 學習中&#xA;📄 查看我的經歷：中文履歷 / 英文履歷&#xA;👨‍💻 一些我的專案可在 我的 GitHub 頁面 上找到&#xA;💬 歡迎問我關於 如何參與跨領域學習、跨領域推甄&#xA;📫 聯絡方式：yungchu@gapp.nthu.edu.tw&#xA;⚡ 趣聞：我愛瑜伽 🧘‍♀️和狗狗&#xA;🛠️ 技能 前端開發： HTML, CSS, JavaScript, React, TailwindCSS, 110-2 資料庫管理系統 設計與美術： 國中國小美術班經驗 [TODO] 整理作品集 程式語言： Python, C/C++ 程式練習平台： 我的練習主要在 Codesignal 個人檔案，以後預計會漸漸往 Leetcode 個人檔案 持續精進程式 自然語言處理： 研究所所學 實驗室網站NLPLab、112-1 自然語言處理(A+) 英文能力： 多益金色證書 資料科學： 111-2 資料探勘(A+)、111-1 應用電腦視覺(A+)、111-1 人工智慧概論(A+)、110-2 數據科學概論(A)、110-2 統計學二(A+)、111-1 機率(A)、110-2 模擬學、110-2 基因演算法 💻 實驗室實習經歷 (A year) 國科會萌芽案計畫前端開發（2023.</description>
+    </item>
+  </channel>
+</rss>
