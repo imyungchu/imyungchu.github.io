@@ -1,4 +1,4 @@
-baseurl = "https://imyungchu.github.io/"
+baseURL = "https://imyungchu.github.io/"
 metaDataFormat = "yaml"
 title = "chuchulife"
 theme = "blist"
