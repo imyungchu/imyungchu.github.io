@@ -13,7 +13,7 @@
       <link>https://imyungchu.github.io/en/blog/markdown-syntax/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://imyungchu.github.io/en/blog/markdown-syntax/</guid>
-      <description>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</description>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

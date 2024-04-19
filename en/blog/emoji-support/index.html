@@ -31,7 +31,7 @@
   <meta itemprop="name" content="[Template] Emoji Support">
 <meta itemprop="description" content="Guide to emoji usage in Hugo"><meta itemprop="datePublished" content="2024-04-19T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2024-04-19T00:00:00+00:00" />
-<meta itemprop="wordCount" content="13">
+<meta itemprop="wordCount" content="131">
 <meta itemprop="keywords" content="emoji," />
 
   
@@ -99,7 +99,7 @@
 
   
   <div class="relative max-w-5xl mx-auto px-4">
-    <img src="/head.jpg" class="rounded-lg shadow-sm w-full object-contain" />
+    <img src="https://picsum.photos/id/1050/400/250" class="rounded-lg shadow-sm w-full object-contain" />
     
     <div class="absolute top-4 right-8 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white px-2 py-0.5">
       
@@ -150,7 +150,7 @@
         <line x1="12" y1="6" x2="12" y2="19" />
         <line x1="21" y1="6" x2="21" y2="19" />
       </svg>
-      13&nbsp;words
+      131&nbsp;words
       
     </h5>
     
@@ -158,25 +158,21 @@
     
 
     <p>Emoji can be enabled in a Hugo project in a number of ways.</p>
-<!--more-- https://picsum.photos/id/1050/400/250 >
-
-The [`emojify`](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).
-
-To enable emoji globally, set `enableEmoji` to `true` in your site's [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.
-
+<p>測試中文</p>
+<p>The <a href="https://gohugo.io/functions/emojify/" target="_blank" rel="noopener">&lt;code&gt;emojify&lt;/code&gt;</a>
+ function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes" target="_blank" rel="noopener">Inline Shortcodes</a>
+.</p>
+<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site&rsquo;s <a href="https://gohugo.io/getting-started/configuration/" target="_blank" rel="noopener">configuration</a>
+ and then you can type emoji shorthand codes directly in content files; e.g.</p>
 <p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
 <br>
-
-The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
-
----
-
-**N.B.** The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.
-
+<p>The <a href="http://www.emoji-cheat-sheet.com/" target="_blank" rel="noopener">Emoji cheat sheet</a>
+ is a useful reference for emoji shorthand codes.</p>
+<hr>
+<p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>.emoji {
 </span></span><span style="display:flex;"><span>font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
 </span></span><span style="display:flex;"><span>}</span></span></code></pre></div>
-
 
 
   </article>
