@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on chuchulife</title>
-    <link>http://localhost:1313/en/tags/</link>
+    <link>https://imyungchu.github.io/en/tags/</link>
     <description>Recent content in Tags on chuchulife</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://imyungchu.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Css</title>
-      <link>http://localhost:1313/en/tags/css/</link>
+      <link>https://imyungchu.github.io/en/tags/css/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/css/</guid>
+      <guid>https://imyungchu.github.io/en/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>http://localhost:1313/en/tags/emoji/</link>
+      <link>https://imyungchu.github.io/en/tags/emoji/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/emoji/</guid>
+      <guid>https://imyungchu.github.io/en/tags/emoji/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>http://localhost:1313/en/tags/html/</link>
+      <link>https://imyungchu.github.io/en/tags/html/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/html/</guid>
+      <guid>https://imyungchu.github.io/en/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/en/tags/markdown/</link>
+      <link>https://imyungchu.github.io/en/tags/markdown/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/markdown/</guid>
+      <guid>https://imyungchu.github.io/en/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/en/tags/privacy/</link>
+      <link>https://imyungchu.github.io/en/tags/privacy/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/privacy/</guid>
+      <guid>https://imyungchu.github.io/en/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>http://localhost:1313/en/tags/shortcodes/</link>
+      <link>https://imyungchu.github.io/en/tags/shortcodes/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/shortcodes/</guid>
+      <guid>https://imyungchu.github.io/en/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Text</title>
-      <link>http://localhost:1313/en/tags/text/</link>
+      <link>https://imyungchu.github.io/en/tags/text/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/text/</guid>
+      <guid>https://imyungchu.github.io/en/tags/text/</guid>
       <description></description>
     </item>
   </channel>
