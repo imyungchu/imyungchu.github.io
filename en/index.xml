@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>chuchulife</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://imyungchu.github.io/en/</link>
     <description>Recent content on chuchulife</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://imyungchu.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Template] Emoji Support</title>
-      <link>http://localhost:1313/en/blog/emoji-support/</link>
+      <link>https://imyungchu.github.io/en/blog/emoji-support/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/emoji-support/</guid>
+      <guid>https://imyungchu.github.io/en/blog/emoji-support/</guid>
       <description>Emoji can be enabled in a Hugo project in a number of ways.&#xA;測試中文&#xA;The &amp;lt;code&amp;gt;emojify&amp;lt;/code&amp;gt; function can be called directly in templates or Inline Shortcodes .&#xA;To enable emoji globally, set enableEmoji to true in your site&amp;rsquo;s configuration and then you can type emoji shorthand codes directly in content files; e.g.&#xA;🙈 :see_no_evil: 🙉 :hear_no_evil: 🙊 :speak_no_evil:&#xA;The Emoji cheat sheet is a useful reference for emoji shorthand codes.</description>
     </item>
     <item>
       <title>[Template] Markdown Syntax Guide</title>
-      <link>http://localhost:1313/en/blog/markdown-syntax/</link>
+      <link>https://imyungchu.github.io/en/blog/markdown-syntax/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/markdown-syntax/</guid>
+      <guid>https://imyungchu.github.io/en/blog/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>[Template] Placeholder Text</title>
-      <link>http://localhost:1313/en/blog/placeholder-text/</link>
+      <link>https://imyungchu.github.io/en/blog/placeholder-text/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/placeholder-text/</guid>
+      <guid>https://imyungchu.github.io/en/blog/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>[Template] Rich Content</title>
-      <link>http://localhost:1313/en/blog/rich-content/</link>
+      <link>https://imyungchu.github.io/en/blog/rich-content/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/rich-content/</guid>
+      <guid>https://imyungchu.github.io/en/blog/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Built-in Shortcodes&lt;/a&gt;&#xA; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt;&#xA; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/en/page/about/</link>
+      <link>https://imyungchu.github.io/en/page/about/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/page/about/</guid>
+      <guid>https://imyungchu.github.io/en/page/about/</guid>
       <description>嗨 👋，我是江詠筑，熱愛跨領域學習與設計思考的未來網頁開發工程師，期望能創造使用者友善的藝術品。&#xA;🌱 我目前是 清華大學資訊應用研究所 (NTHU ISA) 碩一研究生，已經修完畢業學分，正在 自然語言處理實驗室 @ NLPLab 學習自然語言處理知識，尤其專研關於詞義消岐(word sense disambiguation)、生成式人工智慧(generative AI)、大型語言模型(Large Language Model)在英文教學工具上的應用。&#xA;📄 我的簡介：中文履歷 / 英文履歷 。&#xA;👨‍💻 我的一些專案可在 我的 GitHub 頁面 上看到。&#xA;💬 歡迎問我關於 為什麼跨領域學習、推甄研究所。&#xA;⚡ 趣聞：我愛瑜伽 🧘‍♀️和狗狗 🐕 有經營 youtube, instagram 的興趣，最近喜歡上寫 thread 文章，分享生活反思與有趣的小事情。&#xA;🌱 I’m currently postgraduate student at NTHU ISA @NLPLab 📄 Check out about my experiences : Chinese Resume / English Resume 👨‍💻 Some of my projects are available on my github page 📝 I seldom write articles on my website 💬 Ask me about how to engage in interdisciplinary learning</description>
     </item>
     <item>
       <title>Math Typesetting</title>
-      <link>http://localhost:1313/en/blog/math-typesetting/</link>
+      <link>https://imyungchu.github.io/en/blog/math-typesetting/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/math-typesetting/</guid>
+      <guid>https://imyungchu.github.io/en/blog/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
   </channel>
